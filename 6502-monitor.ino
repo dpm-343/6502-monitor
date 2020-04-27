@@ -2,6 +2,8 @@
 
    Original File by Ben Eater http://eater.net
    
+   Released under Creative Commons Attribution: https://creativecommons.org/licenses/by/4.0/
+   
    For use with Arduino Mega 2560
    
    Added opcode decoding based on 6502 CPU SYNC flag. Requires additional connection to the SYNC pin (pin 7)
