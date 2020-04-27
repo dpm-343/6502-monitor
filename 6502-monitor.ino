@@ -1,3 +1,12 @@
+/* 
+
+   Original File by Ben Eater http://eater.net
+   
+   For use with Arduino Mega 2560
+   
+   Added opcode decoding based on 6502 CPU SYNC flag. Requires additional connection to the SYNC pin (pin 7)
+
+*/
 const char ADDR[] = {22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52};
 const char DATA[] = {39, 41, 43, 45, 47, 49, 51, 53};
 
